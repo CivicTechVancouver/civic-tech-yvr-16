@@ -1,8 +1,14 @@
-title: Meetup No. 16: The Autonomous Vehicle Corridor
-author: Civic Tech YVR community
+title: "Meetup No. 16: The Autonomous Vehicle Corridor"
+author: "Civic Tech YVR"
 github_username: CivicTechVancouver
 timezone: America/Vancouver
 permalink: /:title.html
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
 # Build settings
 markdown: kramdown
