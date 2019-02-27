@@ -5,7 +5,7 @@ date: 2019-02-26 20:00:00 -0800
 lang: en-CA
 ---
 
-* safety among passengers (no bus drivers m## to intervene in bad situations)
+* safety among passengers (no bus drivers in <abbr title="autonomous vehicle">AV</abbr> to intervene in bad situations)
 * free!!
   * +1
 * knowing it’s an energy- and resource-effective mode, even with human-powered vehicles
