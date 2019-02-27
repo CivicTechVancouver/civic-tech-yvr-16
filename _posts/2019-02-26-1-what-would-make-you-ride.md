@@ -8,7 +8,7 @@ lang: en-CA
 * safety among passengers (no bus drivers m## to intervene in bad situations)
 * free!!
   * +1
-* knowing it’s an energy- and resource-effective mode, even WRT human-powered vehicles
+* knowing it’s an energy- and resource-effective mode, even with human-powered vehicles
 * safety information
   * Are there seatbelts? If so, who mandates this?
   * What is an <abbr title="autonomous vehicle">AV</abbr> has to do emergency stop?
