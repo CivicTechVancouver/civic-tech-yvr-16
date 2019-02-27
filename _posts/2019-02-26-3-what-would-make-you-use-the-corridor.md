@@ -6,7 +6,7 @@ lang: en-CA
 ---
 
 * Knowing it’s connected to the transit nodes without mayor interruptions
-* Nudges inside <abbr title="autonomous vehicles">AV</abbr> or [<abbr title="electric autonomous shuttle">ELA</abbr>](https://www.ridewithela.ca/) to increase social interaction among riders!! Get to know people in your community.
+* Nudges inside <abbr title="autonomous vehicles">AVs</abbr> or [<abbr title="electric autonomous shuttle">ELA</abbr>](https://www.ridewithela.ca/) to increase social interaction among riders!! Get to know people in your community.
 * More lively neighbourhood
   * Better / more interactive lighting?
 * active transportation infrastructure
