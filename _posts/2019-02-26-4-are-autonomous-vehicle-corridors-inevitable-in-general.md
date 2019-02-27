@@ -6,7 +6,7 @@ lang: en-CA
 ---
 
 * No: What about considerations of material use for numerous sensors and global equity of resources.
-  * Or: P####tion of H.P.V. as a service – such as [Veemo](https://rideveemo.com/)
+  * Or: P####tion of <abbr title="human-powered vehicle">H.P.V.</abbr> as a service – such as [Veemo](https://rideveemo.com/)
 * Growing population density generates more traffic which can be optimized through autonomous regulation.
 * It is transitional only. Separate corridors if needed, only short-term.
 * If they can meet the need for simpler, slower local vehicle. faster, more efficient travel
